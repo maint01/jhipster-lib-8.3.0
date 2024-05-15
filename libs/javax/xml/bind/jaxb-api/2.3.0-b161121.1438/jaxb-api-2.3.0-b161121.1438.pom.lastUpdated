@@ -1,8 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed May 15 07:46:59 ICT 2024
+#Wed May 15 08:40:43 ICT 2024
 https\://repo.maven.apache.org/maven2/.lastUpdated=1715734019340
 https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:pom\:2.3.0-b161121.1438 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: transfer failed for https\://maven.java.net/content/repositories/releases/javax/xml/bind/jaxb-api/2.3.0-b161121.1438/jaxb-api-2.3.0-b161121.1438.pom
 http\://0.0.0.0/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:pom\:2.3.0-b161121.1438 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [releases.java.net (http\://maven.java.net/content/repositories/releases/, default, releases+snapshots), shapshots.java.net (http\://maven.java.net/content/repositories/snapshots/, default, releases+snapshots), jvnet-nexus-staging (http\://maven.java.net/content/repositories/staging/, default, releases+snapshots), netbeans (http\://bits.netbeans.org/nexus/content/groups/netbeans, default, releases)]
-@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1715734019349
-@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1715734019942
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1715737241809
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1715737243620
 https\://repo.maven.apache.org/maven2/.error=
